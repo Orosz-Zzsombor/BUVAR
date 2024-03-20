@@ -1,0 +1,23 @@
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\bin\Debug\net8.0-windows\Búvárrobot bajnoksága.exe
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\bin\Debug\net8.0-windows\Búvárrobot bajnoksága.deps.json
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\bin\Debug\net8.0-windows\Búvárrobot bajnoksága.runtimeconfig.json
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\bin\Debug\net8.0-windows\Búvárrobot bajnoksága.dll
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\bin\Debug\net8.0-windows\Búvárrobot bajnoksága.pdb
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\bin\Debug\net8.0-windows\HelixToolkit.Wpf.dll
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\Búvárrobot bajnoksága.csproj.AssemblyReference.cache
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\Búvárrobot bajnoksága_MarkupCompile.cache
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\Búvárrobot bajnoksága_MarkupCompile.lref
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\Búvárrobot bajnoksága.g.resources
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\Búvárrobot bajnoksága.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\Búvárrobot bajnoksága.AssemblyInfoInputs.cache
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\Búvárrobot bajnoksága.AssemblyInfo.cs
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\Búvárrobot bajnoksága.csproj.CoreCompileInputs.cache
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\Búvárrobot bajnoksága.csproj.CopyComplete
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\Búvárrobot bajnoksága.dll
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\refint\Búvárrobot bajnoksága.dll
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\Búvárrobot bajnoksága.pdb
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\Búvárrobot bajnoksága.genruntimeconfig.cache
+C:\Users\orosz.zsombor.oliver\source\repos\Búvárrobot bajnoksága\Búvárrobot bajnoksága\obj\Debug\net8.0-windows\ref\Búvárrobot bajnoksága.dll
